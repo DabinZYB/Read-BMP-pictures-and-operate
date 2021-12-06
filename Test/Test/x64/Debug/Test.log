@@ -1,0 +1,14 @@
+﻿  main.c
+D:\Master\New\TEST_Performance\Test\Test\main.c(5,1): warning C4103: 包括标题后更改了对齐方式，可能是由于缺少 #pragma pack(pop)
+D:\Master\New\TEST_Performance\Test\Test\main.c(12,14): warning C4101: “count2”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(12,38): warning C4101: “count5”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(13,9): warning C4101: “Thr_list”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(12,30): warning C4101: “count4”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(10,6): warning C4101: “ImNum”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(14,7): warning C4101: “pname”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(11,9): warning C4101: “j”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(11,6): warning C4101: “i”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(10,12): warning C4101: “Num”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(12,22): warning C4101: “count3”: 未引用的局部变量
+D:\Master\New\TEST_Performance\Test\Test\main.c(12,6): warning C4101: “count1”: 未引用的局部变量
+  Test.vcxproj -> D:\Master\New\TEST_Performance\Test\x64\Debug\Test.exe
